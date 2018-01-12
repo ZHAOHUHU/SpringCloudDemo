@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-@FeignClient(value = "service-hi")
+@FeignClient(value = "service-hi",fallback =SchedualServiceHystrix.class)
 public interface ServiceHi {
     @RequestMapping(value = "/hi", method = RequestMethod.GET)
     public String sayhello(@RequestParam(value = "name") String name);
