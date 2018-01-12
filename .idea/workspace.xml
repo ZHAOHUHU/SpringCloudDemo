@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de8ee00d-6221-4082-8e1c-31c97f7b5a6b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/SchedualServiceHystrix.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bootdemo/pom.xml" afterPath="$PROJECT_DIR$/bootdemo/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/BootdemoApplication.java" afterPath="$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/BootdemoApplication.java" />
-      <change beforePath="$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/HelloService.java" afterPath="$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/HelloService.java" />
-      <change beforePath="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java" afterPath="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java" />
       <change beforePath="$PROJECT_DIR$/fegindemo/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/fegindemo/src/main/resources/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,8 +59,8 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fegindemo/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="277">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -117,7 +104,6 @@
         <option value="$PROJECT_DIR$/eureka/pom.xml" />
         <option value="$PROJECT_DIR$/eureka/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/eureka/src/main/java/teamway/shenzhen/eureka/EurekaApplication.java" />
-        <option value="$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eustomer/src/main/java/teamway/shenzhen/eustomer/EustomerApplication.java" />
         <option value="$PROJECT_DIR$/fegindemo/pom.xml" />
         <option value="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/FegindemoApplication.java" />
@@ -129,6 +115,7 @@
         <option value="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java" />
         <option value="$PROJECT_DIR$/fegindemo/src/main/java/SchedualServiceHystrix.java" />
         <option value="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/SchedualServiceHystrix.java" />
+        <option value="$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/fegindemo/src/main/resources/application.yml" />
       </list>
     </option>
@@ -208,6 +195,32 @@
             <path>
               <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -445,7 +458,7 @@
       <workItem from="1515050549253" duration="7518000" />
       <workItem from="1515110518718" duration="5281000" />
       <workItem from="1515569129360" duration="1732000" />
-      <workItem from="1515715087364" duration="14099000" />
+      <workItem from="1515715087364" duration="14731000" />
     </task>
     <task id="LOCAL-00001" summary="注册中心的建立&#10;服务中心注册">
       <created>1515113224083</created>
@@ -468,11 +481,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515727183593</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ribbon断路器实现成功，feign断路器失败怀疑是yml配置文件问题，不做深究">
+      <created>1515739279928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1515739279928</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28630000" />
+    <option name="totallyTimeSpent" value="29262000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,7 +550,8 @@
     <MESSAGE value="注册中心的建立&#10;服务中心注册" />
     <MESSAGE value="普通服务消费者注册成功，，负载均衡实现" />
     <MESSAGE value="feign消费者的负载均衡实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="feign消费者的负载均衡实现" />
+    <MESSAGE value="ribbon断路器实现成功，feign断路器失败怀疑是yml配置文件问题，不做深究" />
+    <option name="LAST_COMMIT_MESSAGE" value="ribbon断路器实现成功，feign断路器失败怀疑是yml配置文件问题，不做深究" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -674,14 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootdemo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -815,16 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/SchedualServiceHystrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -837,10 +840,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fegindemo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="277">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
           <folding />
         </state>
       </provider>
