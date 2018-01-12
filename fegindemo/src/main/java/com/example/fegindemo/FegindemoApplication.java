@@ -9,7 +9,6 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 
 //仪表盘注解的引入
 @EnableHystrixDashboard
-@EnableHystrix
 @EnableFeignClients
 @EnableDiscoveryClient
 @SpringBootApplication

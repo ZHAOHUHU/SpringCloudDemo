@@ -11,6 +11,7 @@
         <module name="eustomer" />
         <module name="fegindemo" />
         <module name="SpringCloudDemo" />
+        <module name="zuuldemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="eustomer" target="1.8" />
       <module name="fegindemo" target="1.8" />
       <module name="SpringCloudDemo" target="1.5" />
+      <module name="zuuldemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
