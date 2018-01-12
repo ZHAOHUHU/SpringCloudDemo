@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de8ee00d-6221-4082-8e1c-31c97f7b5a6b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_grapher_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_1_12_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_api_1_12_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_core_1_12_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_2_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_2_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_3_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_3_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_2_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_3_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_3_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_3_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_3_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/BootdemoApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/HelloService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/demoController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootdemo/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/HIController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/eureka/src/main/java/teamway/shenzhen/eureka/EurekaApplication.java" afterPath="$PROJECT_DIR$/eureka/src/main/java/teamway/shenzhen/eureka/EurekaApplication.java" />
-      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/eustomer/src/main/java/teamway/shenzhen/eustomer/EustomerApplication.java" afterPath="$PROJECT_DIR$/eustomer/src/main/java/teamway/shenzhen/eustomer/EustomerApplication.java" />
-      <change beforePath="$PROJECT_DIR$/eustomer/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/eustomer/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/HIController.java" afterPath="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/HIController.java" />
+      <change beforePath="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java" afterPath="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,8 +24,8 @@
       <file leaf-file-name="FegindemoApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/FegindemoApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            <state relative-caret-position="198">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
                 <element signature="e#436#437#0" expanded="true" />
                 <element signature="e#498#499#0" expanded="true" />
@@ -79,8 +37,8 @@
       <file leaf-file-name="ServiceHi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="330">
+              <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,14 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BootdemoApplication.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/BootdemoApplication.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fegindemo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="2079">
+              <caret line="63" column="40" lean-forward="false" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -110,15 +66,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HIController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HIController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/HIController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+            <state relative-caret-position="376">
+              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -155,8 +111,8 @@
         <option value="$PROJECT_DIR$/fegindemo/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/FegindemoApplication.java" />
         <option value="$PROJECT_DIR$/eustomer/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/HIController.java" />
         <option value="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java" />
+        <option value="$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/HIController.java" />
       </list>
     </option>
   </component>
@@ -202,8 +158,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="118" />
-    <option name="y" value="59" />
+    <option name="x" value="476" />
+    <option name="y" value="35" />
     <option name="width" value="1579" />
     <option name="height" value="1017" />
   </component>
@@ -239,41 +195,6 @@
             <path>
               <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="bootdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="bootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="bootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="bootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="bootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bootdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
               <item name="fegindemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -305,16 +226,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="fegindemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="fegindemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fegindemo" type="462c0819:PsiDirectoryNode" />
-              <item name="FegindemoApplication" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="SpringCloudDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -362,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BootdemoApplication">
+  <component name="RunManager" selected="Spring Boot.FegindemoApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -509,7 +420,7 @@
       <workItem from="1515050549253" duration="7518000" />
       <workItem from="1515110518718" duration="5281000" />
       <workItem from="1515569129360" duration="1732000" />
-      <workItem from="1515715087364" duration="8536000" />
+      <workItem from="1515715087364" duration="9187000" />
     </task>
     <task id="LOCAL-00001" summary="注册中心的建立&#10;服务中心注册">
       <created>1515113224083</created>
@@ -518,11 +429,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515113224083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="普通服务消费者注册成功，，负载均衡实现">
+      <created>1515726515590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515726515590</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23067000" />
+    <option name="totallyTimeSpent" value="23718000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,7 +452,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="59" width="1579" height="1017" extended-state="0" />
+    <frame x="476" y="35" width="1579" height="1017" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -553,10 +472,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33422282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33422282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -577,7 +496,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="注册中心的建立&#10;服务中心注册" />
-    <option name="LAST_COMMIT_MESSAGE" value="注册中心的建立&#10;服务中心注册" />
+    <MESSAGE value="普通服务消费者注册成功，，负载均衡实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="普通服务消费者注册成功，，负载均衡实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -761,14 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootdemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootdemo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -812,11 +724,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/BootdemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootdemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1807">
+          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fegindemo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
+        <state relative-caret-position="2079">
           <caret line="63" column="40" lean-forward="false" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/FegindemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -830,43 +779,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/HIController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        <state relative-caret-position="376">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/FegindemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding>
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fegindemo/src/main/java/com/example/fegindemo/ServiceHi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootdemo/src/main/java/com/example/bootdemo/BootdemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
           </folding>
         </state>
       </provider>
