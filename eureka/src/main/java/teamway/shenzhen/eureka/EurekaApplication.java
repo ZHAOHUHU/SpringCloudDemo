@@ -6,6 +6,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 /*
 这代表这个就是注册中心
  */
+
 @EnableEurekaServer
 @SpringBootApplication
 public class EurekaApplication {
