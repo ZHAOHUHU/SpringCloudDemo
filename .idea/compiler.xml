@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bootdemo" />
+        <module name="configclient" />
+        <module name="configserverdemo" />
         <module name="eureka" />
         <module name="eustomer" />
         <module name="fegindemo" />
@@ -16,6 +18,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bootdemo" target="1.8" />
+      <module name="configclient" target="1.8" />
+      <module name="configserverdemo" target="1.8" />
       <module name="eureka" target="1.8" />
       <module name="eustomer" target="1.8" />
       <module name="fegindemo" target="1.8" />

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringCloudDemo.iml" filepath="$PROJECT_DIR$/SpringCloudDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/bootdemo/bootdemo.iml" filepath="$PROJECT_DIR$/bootdemo/bootdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserverdemo/configserverdemo.iml" filepath="$PROJECT_DIR$/configserverdemo/configserverdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eustomer/eustomer.iml" filepath="$PROJECT_DIR$/eustomer/eustomer.iml" />
       <module fileurl="file://$PROJECT_DIR$/fegindemo/fegindemo.iml" filepath="$PROJECT_DIR$/fegindemo/fegindemo.iml" />

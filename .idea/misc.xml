@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/bootdemo/pom.xml" />
         <option value="$PROJECT_DIR$/fegindemo/pom.xml" />
         <option value="$PROJECT_DIR$/zuuldemo/pom.xml" />
+        <option value="$PROJECT_DIR$/configserverdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/configclient/pom.xml" />
       </list>
     </option>
   </component>

@@ -17,7 +17,7 @@ public class MyFilter extends ZuulFilter {
             context.setSendZuulResponse(false);
             context.setResponseStatusCode(401);
             try {
-                context.getResponse().getWriter().write("你咩有资格");
+                context.getResponse().getWriter().write("you are wrong");
             } catch (IOException e) {
                 e.printStackTrace();
             }
