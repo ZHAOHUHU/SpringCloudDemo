@@ -10,6 +10,7 @@
         <module name="configclient" />
         <module name="configserverdemo" />
         <module name="eureka" />
+        <module name="eureka-server" />
         <module name="eustomer" />
         <module name="fegindemo" />
         <module name="SpringCloudDemo" />
@@ -21,6 +22,7 @@
       <module name="configclient" target="1.8" />
       <module name="configserverdemo" target="1.8" />
       <module name="eureka" target="1.8" />
+      <module name="eureka-server" target="1.8" />
       <module name="eustomer" target="1.8" />
       <module name="fegindemo" target="1.8" />
       <module name="SpringCloudDemo" target="1.5" />
